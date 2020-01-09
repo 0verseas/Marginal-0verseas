@@ -2,6 +2,7 @@
 邊緣人海聯樹莓派專案 - ELK
 
 ## 介紹
+利用 ELK 抓取海聯機器上的日誌進行資料蒐集、分析、統計等，之後用 reapberry pi 進行視覺化的工作呈現圖表。
 
 ## 部署
 ### 安裝 Raspbian Buster Lite
